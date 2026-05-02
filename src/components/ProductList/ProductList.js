@@ -15,7 +15,7 @@ import Papaya from "../../assets/Fruits/papaya.png";
 import Pomegranate from "../../assets/Fruits/Pomegranate.png";
 import Watermelon from "../../assets/Fruits/Watermelon.png";
 
-import Cabbage from "../../assets/Vegetables/Cabbage.png";
+import Cabbage from "../../assets/Vegetables/cabbage.png";
 import Eggplant from "../../assets/Vegetables/eggplant.png";
 import Broccoli from "../../assets/Vegetables/broccoli.png";
 import Capsicum from "../../assets/Vegetables/capsicum.png";
