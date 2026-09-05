@@ -56,7 +56,7 @@ import Besan from "../../assets/FoodGrains/Besan.png";
 import Poha from "../../assets/FoodGrains/Poha.png";
 import Salt from "../../assets/FoodGrains/Salt.png";
 import ToorDal from "../../assets/FoodGrains/ToorDal.png";
-import MoongDal from "../../assets/FoodGrains/MoongDal.png";
+import MoongDal from "../../assets/FoodGrains/Moongdal.png";
 import MasoorDal from "../../assets/FoodGrains/MasoorDal.png";
 import UradDal from "../../assets/FoodGrains/UradDal.png";
 import Rajma from "../../assets/FoodGrains/Rajma.png";
